@@ -37,7 +37,7 @@ Live 12-hour clock with AM/PM, updating every 200ms.
 ## Project Structure
 
 ```
-clock-suite/
+tkinter-clock-app-python/
 ├── main.py            # Entry point — builds the sidebar and wires up all views
 ├── digital_clock.py   # Digital Clock view
 ├── stopwatch.py        # Stopwatch view

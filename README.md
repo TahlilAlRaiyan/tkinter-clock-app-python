@@ -86,4 +86,4 @@ GitHub: [@TahlilAlRaiyan](https://github.com/TahlilAlRaiyan)
 
 ## License
 
-This project is available under the MIT License — add a `LICENSE` file to the repository if you'd like to formally apply it.
+This project is available under the MIT License.
